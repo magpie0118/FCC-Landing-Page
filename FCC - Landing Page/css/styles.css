@@ -1,0 +1,88 @@
+body {
+  text-align: center;
+  scroll-behavior: smooth;
+}
+
+h1 {
+  font-family: 'Oswald', cursive;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+}
+
+h4 {
+  font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+h5 {
+  font-family: 'Sacramento', cursive;
+}
+
+p {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+
+
+.flex-container {
+
+  background-color: #fdfefe margin: 10px;
+  padding: 25px 50px 50px 25px;
+  font-size: 30px;
+  background-color: #ffffff;
+}
+
+
+#header-img {
+  width: 1200px;
+  height: auto;
+}
+
+
+
+.opening {
+  display: flex;
+  padding-top: 20px;
+  text-align: center;
+}
+
+#pricing {
+  max-width: 1500px;
+  padding: 7% 7%;
+}
+
+#subscribe {
+  background-color: #004E64;
+  color: #fff;
+}
+
+#copyright {
+  background-color: #9FFFCB;
+}
+
+#get-started {
+  background-color: #9FFFCB;
+}
+
+.modal-dialog {
+  text-align: center;
+}
+
+#form {
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#footer {
+  background-color: #00A5CF;
+  color: #fff;
+}
